@@ -17,23 +17,78 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2008: Statistical Analyst 
+  * Sepahan Data Mining Company
+  * Duties included: T.....
+  
 
 * Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Department of Mathematics and Computer Science
+  * Duties included: ...
+  * Supervisor: ...
+
+
+* Fall 2015: Teaching Assistant
+  * Department of Mathematics and Computer Science
+  * Duties included: ...Design and Analysis of Algorithms, Cloud Computing,
+Software Development, Serverless Data Processing, PPL, Graph Theory,
+Deep Learning, Natural Language Processing, Data Structures & Algorithms.
+  * Supervisor: ...
+
+
+
+
+* Fall 2015: Research Assistant
+  * Noavar Research Company
+  * Duties included: improving measurements for
+the service identification, Service oriented Architecture.
+  * Supervisor: ...
+
+* Fall 2015: Research Assistant
+  * Vector Institute
+  * Duties included: Working on Text mining with Deep learning models
+• Applied Machine Learning intern, Vector Institute for AI, Toronto.
+  * Supervisor: ...
+
+
+
+* Fall 2015: Research Assistant
+  * 
+  * Duties included:
+  * Supervisor: ...
+
+
+* Fall 2015: Research Assistant
+  * 
+  * Duties included: 
+  * Supervisor: ...
+
+
+
+
+
+
+
+
+• Certification: Machine Learning Summer School (OxML), Oxford University.
+• Certification: Intro to Python for Data Science at DataCamp.
+• Certification: Machine Learning Summer School, Skoltech, Moscow.
+• Certification: Bias in AI course, Vector Institute.
+
+
   
 Skills
 ======
 * Skill 1
 * Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
+  * Java
+  * Maple
+  * Matlab
+  * C
+  * C++
+  * Python
+  * QT
+  * Shell and bash scripting
 * Skill 3
 
 Publications
