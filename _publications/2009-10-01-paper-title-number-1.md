@@ -11,7 +11,7 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
 ---
 This paper is about ....
 
-[Download paper here]([http://academicpages.github.io/files/paper1.pdf](https://www.researchgate.net/profile/Samuel-Sousa-8/publication/335570031_Categorizing_Online_Harassment_on_Twitter/links/5d6dfe7c299bf1808d61c517/Categorizing-Online-Harassment-on-Twitter.pdf))
+<!-- [Download paper here]([http://academicpages.github.io/files/paper1.pdf](https://www.researchgate.net/profile/Samuel-Sousa-8/publication/335570031_Categorizing_Online_Harassment_on_Twitter/links/5d6dfe7c299bf1808d61c517/Categorizing-Online-Harassment-on-Twitter.pdf)) -->
 
 Recommended citation: @inproceedings{saeidi2020categorizing,
   title={Categorizing online harassment on Twitter},
