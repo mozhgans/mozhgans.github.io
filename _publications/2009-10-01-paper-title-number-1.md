@@ -7,10 +7,11 @@ date: 2019-10-01
 venue: 'ECML PKDD'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Mozhgan Saeidi. (2019). &quot;Categorizing online harassment on Twitter.&quot; <i>Journal 1</i>. 1(1).'
 ---
 This paper is about ....
 
+You can find this paper here: 'https://link.springer.com/chapter/10.1007/978-3-030-43887-6_22'
 
 
 Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
