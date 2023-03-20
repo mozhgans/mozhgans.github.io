@@ -20,7 +20,7 @@ Reseach Interet
 ======
 
 My main interests are at the intersection of machine learning for healthcare and statistical genetics. 
-#My research aims to better understand the training dynamics of multi-player games and develop improved methods for their optimization. 
+<!-- #My research aims to better understand the training dynamics of multi-player games and develop improved methods for their optimization.  -->
 In addition, my broader interests include statistical modeling, graph theory, combinatorics, deep learning, and NLP.
 
 Other
