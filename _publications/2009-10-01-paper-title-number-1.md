@@ -2,7 +2,7 @@
 title: "Categorizing online harassment on Twitter"
 collection: publications
 permalink: /publication/2019-10-01-paper-title-number-1
-excerpt: 'This paper is about ...'
+excerpt: 'This paper is about harassment on social media and how categorize it using machine learning and NLP techniques.'
 date: 2019-10-01
 venue: 'ECML PKDD'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-030-43887-6_22'
