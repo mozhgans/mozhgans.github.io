@@ -1,7 +1,7 @@
 ---
 title: "Contextualized knowledge base sense embeddings in word sense disambiguation"
 collection: publications
-permalink: /publication/paper4
+permalink: /publication/paper1
 excerpt: 'This paper is about the role of contextual embeddings in the .'
 date: 2021-10-01
 venue: 'ICDAR'
