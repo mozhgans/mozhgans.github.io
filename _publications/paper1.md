@@ -2,7 +2,7 @@
 title: "Contextualized knowledge base sense embeddings in word sense disambiguation"
 collection: publications
 permalink: /publication/paper1
-excerpt: 'This paper is about the role of contextual embeddings in the .'
+excerpt: 'This paper is about the role of contextual embeddings in the word sense disambiguation task.'
 date: 2021-10-01
 venue: 'ICDAR'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-030-86159-9_37'
