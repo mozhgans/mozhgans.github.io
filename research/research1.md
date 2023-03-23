@@ -1,0 +1,34 @@
+---
+title: "ONTEXT-AWARE SEMANTIC TEXT MINING AND REPRESENTATION LEARNING
+FOR TEXT DISAMBIGUATION AND ONLINE HARASSMENT CLASSIFICATION"
+collection: talks
+type: "Research"
+permalink: /talks/2012-03-01-talk-1
+venue: "Computer Science Department, Dalhousie University"
+date: 2022-03-01
+location: "Canada"
+---
+
+Our contribution can be divided into two main parts; the first
+part focuses on the text ambiguity problem, and the second part focuses on the text classification
+problem, which are two related tasks in NLP. While analyzing and designing algorithms for text
+understanding and representation learning, we introduce algorithms to better understand the
+text and its exact meaning when there are different possible meanings for words present in the
+text. This problem has been known in NLP as a Word Sense Disambiguation (WSD) problem. In
+the first part of this thesis, we analyze the effect of different current available methods in text
+embedding on the WSD task, and based on the observations and experiments, we introduce a
+new method for text representation learning. In addition to general English text, to evaluate
+our method, we analyze the effect of our representation on Biomedical text as an application.
+This analysis shows how effective these embeddings are in capturing the context when we are
+looking to find the correct meaning behind the words in biomedical texts. We also investigate
+the problem of text classification in this study. Text classification is one other relevant problem
+in NLP to the problem of WSD. We consider a collection of tweet posts and try to classify them
+into two classes, one if a tweet includes harassment, and the other is the class of tweets without
+harassment. We apply classical machine learning approaches and show the effects and differences
+between them. In addition to this binary classification investigation, we focus on the first class,
+the tweets including harassment. We analyze the tweets and classify which type of harassment
+is a tweet using classical machine learning approaches, including logistic regression, Gaussian
+naive Bayes, decision trees, support vector machines, random forest, multi-layer perceptron, and
+AdaBoost in chapter five. The last chapter uses a deep learning approach, the graph convolution
+approach, to solve this problem. Our experiments show how effective using this deep learning
+method is compared to the previous classical machine learning approache
