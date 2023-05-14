@@ -25,7 +25,7 @@ In addition, my broader interests include statistical modeling, graph theory, co
 
 Other
 ======
-I am very passionate about cultivating a diverse and inclusive ML and Statistic community, and I actively participate in various activities, most prominently as part of organizing team of WiML. Outside work, I enjoy hiking, biking, and playing games. I love traveling to places with distinct nature and beautiful lanscapes.
+I am very passionate about cultivating a diverse and inclusive ML and Statistic community, and I am actively part of the organizing team of WiML. Outside work, I enjoy hiking, biking, and gardening. I love traveling to places with distinct nature and beautiful lanscapes.
 
 Contact me
 ------
