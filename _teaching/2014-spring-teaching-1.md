@@ -1,20 +1,20 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant"
 collection: teaching
-type: "Undergraduate course"
+type: "Serverless Data Processing"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Department of Computer Science, Dalhousie University"
+date: 2022-01-01
+location: "Halifax, Canada"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I was a teaching assistant for this course for 2 years. 
 
-Heading 1
+Preparing teaching materials
 ======
 
-Heading 2
+Teaching and cordinating the labs
 ======
 
-Heading 3
+Marking the exams
 ======
