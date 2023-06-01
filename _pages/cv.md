@@ -13,7 +13,7 @@ Education
 ======
 * B.Sc.  Isfahan University of Technology, 2012
 * M.Sc.  Isfahan University of Technology, 2016
-* Ph.D   Dalhousie University, 2022
+* Ph.D   Dalhousie University, 2023
 
 Work experience
 ======
