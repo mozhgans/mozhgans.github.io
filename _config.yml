@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mojgan Saeidi"
+title                    : "Mozhgan Saeidi"
 title_separator          : "-"
-name                     : &name "Mojgan Saeidi"
+name                     : &name "Mozhgan Saeidi"
 description              : &description "Research Scientist"
 url                      : https://mozhgans.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mojgan Saeidi"
+  name             : "Mozhgan Saeidi"
   avatar           : "profile.png"
   bio              : "Research Scientist"
   location         : "Toronto"
