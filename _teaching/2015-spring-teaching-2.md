@@ -10,8 +10,7 @@ location: "Toronto, Canada"
 
 I was a teaching assistant for the course “Clinicians Champions in AI”, from
 May to July, and from July to October, I was a teaching assistant for the course
-“NRCan AI Fundamentals”. My roles include:  and
-.
+“NRCan AI Fundamentals”.
 
 Developing course materials
 ======
