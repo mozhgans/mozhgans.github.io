@@ -1,20 +1,23 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching Assistant"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Vector Institute, UHN, and the University of Toronto"
+date: 2022-01-01
+location: "Toronto, Canada"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I was a teaching assistant for the course “Clinicians Champions in AI”, from
+May to July, and from July to October, I was a teaching assistant for the course
+“NRCan AI Fundamentals”. My roles include:  and
+.
 
-Heading 1
+Developing course materials
 ======
 
-Heading 2
+Delivering the content to participants
 ======
 
-Heading 3
+Assessing and Grading the projects
 ======
