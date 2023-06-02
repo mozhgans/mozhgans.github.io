@@ -16,7 +16,7 @@ I am a PhD student in Computer Science, working with Evangelos Milios and Norber
 
 
 
-Reseach Interet
+Reseach Interest
 ======
 
 My main interests are at the intersection of machine learning for healthcare and statistical genetics. 
