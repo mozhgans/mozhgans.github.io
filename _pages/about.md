@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD student in Computer Science, working with Evangelos Milios and Norbert Zeh. 
 
-<!-- #I am a Postdoctoral Researcher at the Department of Biomedical Data Science at the Stanford University, working with Barbara Engelhardt. -->
+<!-- #I am a Postdoctoral Researcher at the Department of Biomedical Data Science at Stanford University, working with Barbara Engelhardt. -->
 
 <!-- #Prior to my current position, I was Postdoctoral Research Scientist at the Machine Learning and Optimization (MLO) lab at EPFL, working with Martin Jaggi. #While at EPFL, I organized the Smooth Games reading group . In part of my time, I participated in the intelligent Global Health (iGH) sub-group of MLO led #by Mary-Anne Hartley, by advising on the machine learning aspect of the ongoing projects. I obtained my Ph.D. from EPFL, and Idiap, supervised by François #Fleuret. During my Ph.D. studies I did two internships at: (i) Mila where I was supervised by Yoshua Bengio and Simon Lacoste-Julien, as well as at (ii) #DeepMind supervised by Irina Higgins. -->
 
@@ -25,7 +25,7 @@ In addition, my broader interests include statistical modeling, graph theory, co
 
 Other
 ======
-I am very passionate about cultivating a diverse and inclusive ML and Statistic community, and I am actively part of the organizing team of WiML. Outside work, I enjoy hiking, biking, and gardening. I love traveling to places with distinct nature and beautiful lanscapes.
+I am very passionate about cultivating a diverse and inclusive ML and Statistic community, and I am actively part of the organizing team of WiML. Outside work, I enjoy hiking, biking, and gardening. I love traveling to places with distinct nature and beautiful landscapes.
 
 Contact me
 ------
