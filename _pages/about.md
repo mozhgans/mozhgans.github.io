@@ -16,7 +16,7 @@ I am a Postdoctoral Researcher in Computer Science and Bioinformatics at Stanfor
 
 
 
-Reseach Interest
+Research Interest
 ======
 
 My main interests are at the intersection of machine learning for healthcare and statistical genetics. 
