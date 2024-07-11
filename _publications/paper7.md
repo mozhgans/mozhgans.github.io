@@ -2,7 +2,7 @@
 title: "Benchmarks for Physical Reasoning AI"
 collection: publications
 permalink: /publication/2019-10-01-paper-title-number-1
-excerpt: 'This paper is about ruler wrapping problem.'
+excerpt: 'This paper is about Physical Reasoning in AI.'
 date: 2023-10-01
 venue: 'TMLR'
 paperurl: 'https://arxiv.org/pdf/2312.10728.pdf'
