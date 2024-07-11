@@ -83,12 +83,12 @@ author:
   name             : "Mozhgan Saeidi"
   avatar           : "profile.png"
   bio              : "Research Scientist"
-  location         : "Toronto, Ontario, Canada"
+  location         : "Bay Area/Toronto"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=_zSP7YMAAAAJ"
   email            :  "mozhan.saeidi@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/Mozhgan-Saeidi-3"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,9 +103,9 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "mojgansaeedi"
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0002-1736-0737"
   pinterest        :
-  soundcloud       :
+  soundcloud       : https://soundcloud.com/user-791418021-17481065
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
