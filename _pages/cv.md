@@ -11,8 +11,7 @@ redirect_from:
 
 Education
 ======
-``* B.Sc.  Isfahan University of Technology, 2012''
-``* M.Sc.  Isfahan University of Technology, 2016''
+
 * Postdoc  Stanford University, 2023
 * Ph.D   Dalhousie University, Vector Institute, University of Toronto 2022
 
@@ -25,7 +24,7 @@ Work experience
 
 * Fall 2009-2012: Teaching Assistant
   * Department of Mathematics and Computer Science, Amir Kabir University
-  * Duties included: Preparing and Delivering lectures; Cources: Linear Algebra course, Data Structure
+  * Duties included: Preparing and Delivering lectures; Courses: Linear Algebra course, Data Structure
 
 
 * Fall 2015: Teaching Assistant
