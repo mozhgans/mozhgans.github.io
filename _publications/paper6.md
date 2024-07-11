@@ -3,7 +3,7 @@ title: "Large Language Models are Fixated by Red Herrings: Exploring Creative Pr
 collection: publications
 permalink: /publication/2019-10-01-paper-title-number-1
 excerpt: 'This work explores how well large language models can solve creative problems by analyzing their performance on a dataset inspired by a quiz show segment that involves making connections between seemingly unrelated words.'
-date: 2022-10-01
+date: 2024-1-01
 venue: 'International Journal of Computational Geometry & Applications'
 paperurl: '[https://arxiv.org/pdf/2109.14497.pdf](https://proceedings.neurips.cc/paper_files/paper/2023/file/11e3e0f1b29dcd31bd0952bfc1357f68-Paper-Datasets_and_Benchmarks.pdf)'
 
