@@ -16,7 +16,7 @@ representations encodes the subtle distinction that might occur between differen
 meanings of the same word. However, these representations do not include the
 input text’s information, as the context, and a semantic knowledge base network.
 This integration of context and semantic network is helpful in NLP tasks, specifically in the lexical ambiguity problem. In this paper, we first analyze the defects
-of current state-of-the-art representations learning approaches, and second, we
+of current state-of-the-art representation learning approaches, and second, we
 present a word representation learning method, named ContextBERT, that is aware
 of the semantic knowledge base network and the context. ContextBERT is a novel
 approach to producing sense embeddings for the lexical meanings within a lexical
