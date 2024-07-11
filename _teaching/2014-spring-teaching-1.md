@@ -1,7 +1,7 @@
 ---
 title: "Teaching Assistant"
 collection: teaching
-type: ""
+type: "Instructor and Teaching Assistant"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Departments of Computer Science and Mathematics, Dalhousie University"
 date: 2022-01-01
