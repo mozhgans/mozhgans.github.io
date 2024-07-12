@@ -2,7 +2,7 @@
 title: "Benchmarks for Physical Reasoning AI"
 collection: publications
 permalink: /publication/2019-10-01-paper-title-number-1
-excerpt: 'This paper is about Physical Reasoning in AI.'
+excerpt: 'This paper is about Physical Reasoning in AI. Physical reasoning, a crucial aspect of human intelligence, allows us to understand and predict how objects move and interact in the world. AI research is actively developing models that can reason about physics, enabling robots to grasp objects, navigate environments, and perform tasks in the real world. Mastering physical reasoning is a key challenge in Artificial Intelligence. This ability to understand the physical laws governing objects is essential for robots to operate safely and effectively in our complex world.'
 date: 2023-10-01
 venue: 'TMLR'
 paperurl: 'https://arxiv.org/pdf/2312.10728.pdf'
