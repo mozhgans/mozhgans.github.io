@@ -2,7 +2,7 @@
 title: "Ruler Wrapping"
 collection: publications
 permalink: /publication/2019-10-01-paper-title-number-1
-excerpt: 'This paper is about ruler wrapping problem.'
+excerpt: 'This paper is about the ruler wrapping problem. The ruler wrapping problem asks if a carpenter's ruler with segments of varying lengths can be folded such that all the folds are in the same direction and the final shape fits within a specified length'
 date: 2022-10-01
 venue: 'International Journal of Computational Geometry & Applications'
 paperurl: 'https://arxiv.org/pdf/2109.14497.pdf'
