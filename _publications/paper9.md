@@ -7,7 +7,7 @@ date: 2024-1-01
 venue: 'International Journal of Computational Geometry & Applications'
 paperurl: '[https://arxiv.org/pdf/2109.14497.pdf](https://proceedings.neurips.cc/paper_files/paper/2023/file/11e3e0f1b29dcd31bd0952bfc1357f68-Paper-Datasets_and_Benchmarks.pdf)'
 
-citation: 'Naeini, Saeid and Saqur, Raeid and Saeidi, Mozhgan and Giorgi, John and Taati, Babak. (2023). &quot; journal={journal={Advances in Neural Information Processing Systems}}, pages={100--130}, year={2023}, publisher={NeurIPS} <i>Journal 1</i>. 1(1).'
+citation: 'Naeini, Saeid and Saqur, Raeid and Saeidi, Mozhgan and Giorgi, John and Taati, Babak. (2023). &quot; journal={journal={Advances in Neural Information Processing Systems}}, pages={100--130}, year={2024}, publisher={NeurIPS} <i>Journal 1</i>. 1(1).'
 ---
 The quest for human imitative AI has been an enduring topic in AI research since
 its inception. The technical evolution and emerging capabilities of the latest cohort
