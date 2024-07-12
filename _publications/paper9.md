@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2019-10-01-paper-title-number-1
 excerpt: 'This work explores how well large language models can solve creative problems by analyzing their performance on a dataset inspired by a quiz show segment that involves making connections between seemingly unrelated words.'
 date: 2024-1-01
-venue: 'International Journal of Computational Geometry & Applications'
+venue: 'Advances in Neural Information Processing Systems(NeuRIPS)'
 paperurl: '[https://arxiv.org/pdf/2109.14497.pdf](https://proceedings.neurips.cc/paper_files/paper/2023/file/11e3e0f1b29dcd31bd0952bfc1357f68-Paper-Datasets_and_Benchmarks.pdf)'
 
 citation: 'Naeini, Saeid and Saqur, Raeid and Saeidi, Mozhgan and Giorgi, John and Taati, Babak. (2023). &quot; journal={journal={Advances in Neural Information Processing Systems}}, pages={100--130}, year={2024}, publisher={NeurIPS} <i>Journal 1</i>. 1(1).'
