@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2019-10-01-paper-title-number-1
 excerpt: 'This paper is about solving word sense disambiguation task using graph convolutional networks.'
 date: 2021-10-01
-venue: 'PKDD'
+venue: 'European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases.(ECML PKDD)'
 paperurl: 'https://ceur-ws.org/Vol-2997/paper2.pdf'
 
 citation: 'Saeidi, Mozhgan. (2021). &quot; ContextBERT: Contextual Graph Representation Learning in Text Disambiguation.&quot; Booktitle: PKDD, Germany, September 16--20, 2019, Proceedings, Part II. pages={283--297}, year={2021}, organization={Springer} <i>Journal 1</i>. 1(1).'
