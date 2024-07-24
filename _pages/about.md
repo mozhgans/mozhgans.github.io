@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Researcher in Computer Science and Bioinformatics at Stanford University and Gladstone Institute, working with Barbara Engelhardt. Before joining Engelhardt's lab, I was a PhD student in Computer Science, Machine Learning, and NLP. 
+I am a Postdoctoral Researcher in Computer Science and Bioinformatics at Stanford University and Gladstone Institute, working with Barbara Engelhardt. Before joining Engelhardt's lab, I was a PhD student in Computer Science, Machine Learning, and NLP.  
 
 <!-- #I am a Postdoctoral Researcher at the Department of Biomedical Data Science at Stanford University, working with Barbara Engelhardt. -->
 
