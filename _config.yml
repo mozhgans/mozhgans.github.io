@@ -11,9 +11,9 @@ title                    : "Mozhgan Saeidi"
 title_separator          : "-"
 name                     : &name "Mozhgan Saeidi"
 description              : &description "Research Scientist"
-url                      : https://mozhgansaaaa.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://mmistakes.github.io #https://mozhgans.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "mozhgansaa.github.io"
+repository               : "https://mmistakes.github.iomozhgansaa.github.io"
 teaser                   :  "profile.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 160
